@@ -229,7 +229,7 @@
 
 .pokemon-details-card {
   background-color: #fefefe;
-  border-radius: 10px;
+  border-radius: 5px;
   display: flex;
   flex-direction: row;
   justify-content: space-between; /* Espaço entre os dois blocos */
